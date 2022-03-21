@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="NLTK_homework.pip3" />
+          <option value="NLTK_homework.install" />
+          <option value="newdoc.newdoc.vk_api" />
+          <option value="newdoc.spacy.displacy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
